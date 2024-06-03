@@ -1,22 +1,22 @@
-# Docsify Theme Vista [Preview](https://docsify-theme-vista.vercel.app/)
-Bring back the old Aero theme in Docsify.
+# Docsify Theme 98 [Preview](https://docsify-theme-98.vercel.app/)
+Bring back the old Windows Classic theme in Docsify.
 
-| ![localhost_3000_(PC)](https://github.com/LIGMATV/docsify-theme-vista/assets/143163098/f1e157a2-8412-4465-931d-6408aa734904) |
+| ![localhost_3000_(PC) (1)](https://github.com/LIGMATV/docsify-theme-98/assets/143163098/2ddcf75f-80e5-4d6e-9d38-8a8e968f4015) |
 |:--:|
-| Example, try it [here](https://docsify-theme-vista.vercel.app/) |
+| Example, try it [here](https://docsify-theme-98.vercel.app/) |
 
 - This theme inspired by :
-  - [7.css](https://khang-nd.github.io/7.css/)
+  - [98.css](https://jdan.github.io/98.css/)
 
 # Install
  
 ```css
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-vista@latest/vista.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-98@latest/98.css">
 ```
 
 > [!NOTE]
 > Just to be safe, please use your downloaded version.
-> You can download the navbar-fixed.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-vista@latest/vista.css" download>here</a>.
+> You can download the 98.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-98@latest/98.css" download>here</a>.
 
 # Showcase
 
