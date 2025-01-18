@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
+> https://gitlab.com/LIGMATV/docsify-theme-98
+
 # Docsify Theme 98 [Preview](https://docsify-theme-98.vercel.app/)
 Bring back the old Windows Classic theme in Docsify.
 
